@@ -1,5 +1,5 @@
 package com.cg.Test;
 
-public class Sample25 {
+public class Sample24 {
 
 }
